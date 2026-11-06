@@ -1,0 +1,2 @@
+# pr-reviewer-bench 没有任何第三方运行时依赖。
+# 只需要 Python 3.10+ 标准库，无需 pip install。
